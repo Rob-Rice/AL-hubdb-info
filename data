@@ -1,5 +1,13 @@
-Weight Per Length Metric:
-1.313 kg/m
+available_lengths:
+40P03-001X-000
+40P03-001X-00C
 
-Weight Per Length SAE
-0.882 lb/ft
+available_length_metric:
+3683 mm
+
+25-3683 mm
+
+available_lengths_sae:
+145”
+
+1” to 145”
